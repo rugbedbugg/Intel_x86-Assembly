@@ -65,7 +65,6 @@ ld program.o -o program
 - Memory addressing
 - Control flow (jumps and comparisons)
 - Linux syscalls without libc
-- Debugging with GDB
 
 ---
 
