@@ -1,4 +1,4 @@
-# Intel x86 (x86-64) Assembly
+# Intel x64/x86-64 (amd64) Assembly
 
 Low-level x86-64 assembly programs for Linux written in **Intel syntax**.
 
